@@ -1,0 +1,8 @@
+<!-- MOVIE CARD 2 -->
+<div class="movie-card" onclick="openPlayer('YOUR_NEW_VPS_STREAM_LINK_HERE')">
+  <img src="YOUR_NEW_POSTER_IMAGE_URL_HERE" alt="Movie Poster">
+  <div class="movie-info">
+    <h3>Your New Movie Title</h3>
+    <p>Action • 2026</p>
+  </div>
+</div>
